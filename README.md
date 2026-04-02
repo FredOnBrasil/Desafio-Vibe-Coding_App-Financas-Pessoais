@@ -228,35 +228,92 @@ A tabela abaixo lista as telas essenciais, suas funções e critérios mínimos 
 
 ---
 
-### Observações finais e recomendações práticas
-- **Mobile first** e foco em conversas curtas aumentam adoção entre iniciantes.  
-- **Educação integrada** (micro-aulas e dicas) transforma o app em ferramenta de hábito, não só registro.  
-- **Começar sem integrações bancárias** reduz complexidade; planejar integração futura como fase 2.  
-- **Iterar rápido** com dados do piloto para ajustar microcopy, categorias e recomendações.
+### 📸 Evidência lovable 02
+![Imagem 4](https://github.com/FredOnBrasil/Desafio-Vibe-Coding_App-Financas-Pessoais/blob/main/Images/4_Ajuste_prompt.png)  
 
 ---
 
-Se desejar, eu posso agora gerar o **protótipo de telas** em formato de mapa de navegação e o **conjunto inicial de 200 exemplos de frases** para treinar o NLP, prontos para importar no Lovable. Quer que eu gere esses dois entregáveis em seguida?
+### 📸 Evidência lovable 03
+![Imagem 5](https://github.com/FredOnBrasil/Desafio-Vibe-Coding_App-Financas-Pessoais/blob/main/Images/5_Ajuste_prompt.png)  
+
 ---
 
-### 3. Exploração com Lovable
-- Inserir o prompt no **Lovable** e solicitar:
-  1. Definição do **Agente Financeiro** (tom de voz e comportamento).  
-  2. Criação do **Fluxo de Telas** com base nas funcionalidades.  
-  3. Geração de um **Plano de MVP** com recursos e validação inicial.
+### 📸 Evidência lovable 04
+![Imagem 6](https://github.com/FredOnBrasil/Desafio-Vibe-Coding_App-Financas-Pessoais/blob/main/Images/6_Ajuste_prompt.png)  
 
+---
+
+### 📸 Evidência lovable 05
+![Imagem 7](https://github.com/FredOnBrasil/Desafio-Vibe-Coding_App-Financas-Pessoais/blob/main/Images/7_Ajuste_prompt.png)  
+
+---
+
+### 📸 Evidência lovable 06
+![Imagem 8](https://github.com/FredOnBrasil/Desafio-Vibe-Coding_App-Financas-Pessoais/blob/main/Images/8_Ajuste_prompt.png)  
+
+---
+
+### 📸 Evidência lovable 07
+![Imagem 9](https://github.com/FredOnBrasil/Desafio-Vibe-Coding_App-Financas-Pessoais/blob/main/Images/9_Ajuste_prompt.png)  
+
+---
+
+### Resumo das funcionalidades do aplicativo
+Funcionalidade principal
+Registro por conversa — registrar despesas e receitas usando linguagem natural no chat; confirmação rápida e edição antes de salvar.
+
+Organização e classificação
+Classificação automática — categorização instantânea das transações via NLP/ML; sugestão de categoria com opção de correção.
+
+Etiquetas e notas — adicionar notas e tags para contexto e busca.
+
+Metas e planejamento
+Criação de metas — definir objetivo, prazo e contribuição mensal calculada automaticamente.
+
+Acompanhamento de progresso — visualização do avanço e alertas quando estiver fora do plano.
+
+Recomendações e educação
+Agente Financeiro — dicas personalizadas de economia e micro‑aulas curtas; envio de 1–3 dicas acionáveis por semana.
+
+Ações sugeridas — próximos passos contextuais (ex.: criar meta, rever categoria, reduzir gasto recorrente).
+
+Relatórios e visualização
+Relatórios simples — gráficos visuais (pizza por categoria; linha de saldo mensal) e resumo diário/semanal.
+
+Painel resumido — saldo, gastos recentes e alertas de anomalia (gasto acima da média).
+
+Engajamento e usabilidade
+Onboarding educativo — tutorial curto e exemplos de frases para facilitar o primeiro uso.
+
+Notificações suaves — lembretes e alertas não intrusivos para manter hábito.
+
+Gamificação leve — conquistas e recompensas por metas atingidas (opcional para MVP).
+
+Configurações e privacidade
+Autenticação simples — login por e‑mail ou telefone.
+
+Segurança de dados — criptografia em trânsito e em repouso; consentimento explícito no onboarding.
+
+Opções de exportação e exclusão — backup local e exclusão de conta.
+
+---
 ---
 
 ### 4. Reflexão sobre o processo:  
-  - O que funcionou bem.  
-  - O que não funcionou como esperado.  
-  - O que foi aprendido sobre conversar com IAs.  
+  - O que funcionou bem.
+    o copilot foi bem na revisão apesar de ter sido necessária mais atenção aos detalhes de correção do prompt.
+     
+  - O que não funcionou como esperado.
+    O lovable precisou de mais tempo para gerar as funcionalidades e apresentou algumas pequenas inconsistências.
+    
+  - O que foi aprendido sobre conversar com IAs.
+    Elas estão evoluindo rápido e precisamos acompanhar ou nós seremos irrelevantes no processo de criação.
 
 
 
 ## 💬 Conclusão
 
-O desafio não é sobre escrever código, mas sobre **pensar junto com a IA**. O objetivo é exercitar clareza, curiosidade e criatividade, transformando ideias em conceitos reais. Cada interação é um experimento, e quanto mais clara for sua intenção, mais surpreendente será o resultado.
+O conhecimento é um processo de construção e aulas como essa resignificam o conceito de aprendizado pois enfatizam a necessidade de um processo constante de aperfeiçoamento.
 
 ---
 
