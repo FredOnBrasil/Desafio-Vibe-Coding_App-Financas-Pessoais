@@ -1,7 +1,3 @@
-Aqui está uma versão reescrita do README, já com o novo título e organizada para que você possa editar facilmente as etapas de entrega do desafio:
-
----
-
 # Desafio-Vibe-Coding_App-Financas-Pessoais  
 Desafio implementado para teste de Vibe Coding
 
