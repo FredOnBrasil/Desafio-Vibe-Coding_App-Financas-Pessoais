@@ -223,6 +223,9 @@ A tabela abaixo lista as telas essenciais, suas funções e critérios mínimos 
 - **Plano de testes do piloto** com roteiro de entrevistas e questionário.  
 - **Checklist de lançamento do MVP** com critérios de aceitação e métricas.
 
+### 📸 Evidência lovable 01
+![Imagem 3](https://github.com/FredOnBrasil/Desafio-Vibe-Coding_App-Financas-Pessoais/blob/main/Images/3_Ajuste_prompt.png)  
+
 ---
 
 ### Observações finais e recomendações práticas
