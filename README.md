@@ -45,13 +45,38 @@ Solução: Um app que permita **controlar as finanças por meio de conversas sim
   - Problema a ser resolvido  
   - Público-alvo  
   - Funcionalidades principais  
-  - Entregável esperado da IA  
+  - Entregável esperado da IA
+Evidência PRD inicial:
+```txt
+# Contexto
+Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
+A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
 
-Esse PRD servirá como **prompt base** para orientar a IA.
+# Problema
+Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
+Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+
+# Público-Alvo
+Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+
+# Funcionalidades-Chave
+1. Registrar gastos via chat em linguagem natural.  
+2. Classificar automaticamente as transações.  
+3. Definir e acompanhar metas financeiras.  
+4. Receber dicas de economia do “Agente Financeiro”.  
+5. Visualizar relatórios simples e personalizados.
+
+# Entregável da IA
+Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
+Usar tom educativo e linguagem acessível, em português.
+```
+
 
 ### 2. Refinamento do Prompt
-- Revisar o PRD utilizando o **Copilot** para otimizar clareza e intenção.  
-- Garantir que o texto reflita exatamente o que se espera da IA.  
+- Revisão do PRD utilizando o **Copilot** para otimizar clareza e intenção.
+Evidência:
+
+
 
 ### 3. Exploração com Lovable
 - Inserir o prompt no **Lovable** e solicitar:
@@ -71,9 +96,7 @@ No README do repositório, incluir:
   - O que não funcionou como esperado.  
   - O que foi aprendido sobre conversar com IAs.  
 
-### 5. Publicação
-- Criar um repositório no GitHub (pode ser fork deste).  
-- Publicar o link na plataforma da DIO como entrega oficial do desafio.  
+
 
 ## 💬 Conclusão
 
