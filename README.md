@@ -46,7 +46,8 @@ Solução: Um app que permita **controlar as finanças por meio de conversas sim
   - Público-alvo  
   - Funcionalidades principais  
   - Entregável esperado da IA
-Evidência PRD inicial:
+---
+### Evidência PRD inicial:
 ```txt
 # Contexto
 Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
@@ -70,13 +71,17 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
 Usar tom educativo e linguagem acessível, em português.
 ```
-
+---
 
 ### 2. Refinamento do Prompt
 - Revisão do PRD utilizando o **Copilot** para otimizar clareza e intenção.
-Evidência:
+
+---
+
+### Evidência:
 
 
+---
 
 ### 3. Exploração com Lovable
 - Inserir o prompt no **Lovable** e solicitar:
